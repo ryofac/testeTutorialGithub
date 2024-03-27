@@ -1,4 +1,4 @@
 def main():
-    print("Hello World")
+    print("Hello ADS 2024!")
 
 main()
